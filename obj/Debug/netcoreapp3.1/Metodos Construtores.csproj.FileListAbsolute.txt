@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\bin\Debug\netcoreapp3.1\Metodos Construtores.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Metodos Construtores\obj\Debug\netcoreapp3.1\Metodos Construtores.genruntimeconfig.cache
